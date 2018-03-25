@@ -15,7 +15,7 @@
 public class P7_FixThis {
 
 	public static void main(String[] args) {
-		for( int line = 0; line < 10; line++ ) {
+		for( int line = 0; line < 11; line++ ) {
 			int starsToWrite = line % 5 + 1 ;
 			writeChar( '*', starsToWrite );
 			System.out.println();
