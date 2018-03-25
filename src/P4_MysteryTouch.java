@@ -1,11 +1,17 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(Nash):
+	Date: 3/25/18
 */
 
 /*
  4. Your output prediction:
+ Touch your eye to your head
+ Touch your head to your eye
+ Touch your shoulders to your head
+ Touch your eyes and ear to your eyes an ears
+ Touch your toes to Toes
+ Touch your toes to your toes
   
   
  */
